@@ -295,3 +295,69 @@
   grid-column: 8 / -1;
   grid-row: span 2;
 }
+
+/* box 7 */
+
+.part_1{
+  border: 2px solid rebeccapurple;
+  padding: 0;
+  text-align: center;
+}
+.part_1_heading{
+  background-color: lightcoral;
+  border: 2px solid green;
+  margin: 0px;
+  padding: 0px;
+}
+.part_1_content{
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
+.part_1_content_1{
+  background-color: lightskyblue;
+  border: 2px solid salmon;
+  margin: 0px;
+  padding: 0px;
+  width: 50%;
+}
+/* box sizing issue------------------------------ */
+.part_1_content_2{
+  background-color: orange;
+  border: 2px solid blue;
+  margin: 0px;
+  padding: 0px;
+  width: 50%;
+}
+
+/* part 2 */
+
+.part_2{
+  border: 2px solid orange;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.part_2_heading{
+  background-color: darkorange;
+  border: 2px solid green;
+  margin: 0px;
+  padding: 0px; /* padding kaje laglo nah. tobuo dilam. kn dilam jani nah. hudai, sokhe, khushi te😂 */
+}
+.part_2_content{
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
+.part_2_content_1{
+  background-color: grey;
+  border: 2px solid goldenrod;
+  margin: 0px;
+  padding: 0px;
+}
+.part_2_content_2{
+  background-color: hotpink;
+  border: 2px solid orange;
+  margin: 0px;
+  padding: 0px;
+}
